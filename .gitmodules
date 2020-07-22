@@ -1,0 +1,6 @@
+[submodule "delight_backend"]
+	path = delight_backend
+	url = https://github.com/kkkirill/delight_backend
+[submodule "delight-frontend"]
+	path = delight-frontend
+	url = https://github.com/O1Dii/delight-frontend.git
